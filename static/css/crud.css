@@ -1,0 +1,30 @@
+.icon{
+  cursor: pointer;
+}
+
+.modal-header h3 {
+  font-size: 30px;
+  color: rgb(109, 26, 218);
+  /* 置中 */
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+  .nav h2{
+    color: rgb(156, 221, 238);
+   
+  }
+  
+  
+  .modal-content{
+     background-color: rgb(231, 233, 151);
+     display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  }
+.message{
+  font-size: xx-large;
+}
